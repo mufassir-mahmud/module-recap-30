@@ -18,3 +18,4 @@ console.log(mult);
 const intro = () =>{
     console.log('Mufassir');
 }
+console.log(intro);
